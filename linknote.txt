@@ -10,4 +10,8 @@ https://topdev.vn/blog/git-la-gi/
 	các chức năng cơ bản
 https://viblo.asia/p/tim-hieu-mot-so-khai-niem-va-ki-thuat-thuong-dung-trong-git-phan-1-naQZR4pP5vx
 https://viblo.asia/p/git-hoc-nghiem-tuc-mot-lan-phan-1-OeVKBo6JZkW
+hướng dẫn cơ bản
+lưu ý
+ưu nhược điểm
+kết luận
 
